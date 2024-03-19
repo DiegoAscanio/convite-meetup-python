@@ -12,9 +12,15 @@ Este encontro representa uma excelente oportunidade para se aprofundar na lingua
 
 Para garantir sua participação, faça sua inscrição pelo link [https://www.meetup.com/pythonmg/events/299753134](https://www.meetup.com/pythonmg/events/299753134), , observando que as vagas são limitadas.
 
-Todos os participantes receberão certificados, que podem ser utilizados como comprovantes de horas complementares ou para atividades extracurriculares.
+Todos os participantes receberão certificados, que podem ser utilizados como comprovantes de horas complementares ou para atividades extracurriculares e ao participarem do evento, concordam com o [código de conduta](https://apyb.python.org.br/pythonbrasil/cdc/) da Associação Python Brasil, sendo vedados quaisquer atos discriminatórios, ofensivos ou desrespeitosos, estando os infratores sujeitos à:
 
-Para mais informações, entre em contato pelo [telegram](https://t.me/pythonmg). As mídias sociais do Python-MG são:
+1. Remoção do Evento;
+2. Sanções administrativas e disciplinares (quando aplicáveis);
+3. Responsabilização civil e criminal.
+
+Para mais informações, entre em contato pelo [telegram](https://t.me/pythonmg). 
+
+As mídias sociais do Python-MG são:
 
 - [instagram](https://www.instagram.com/python.mg).
 
