@@ -37,12 +37,12 @@ jobs:
       - name: Installs python markdown package
         run: pip install markdown
       - name: Convert index.md to index.html
-        run: make
+        run: python -m markdown ./index.md > ./index.html
       - name: Commit changes
         run: |
           git config user.name 'diegoascanio'
           git config user.email 'dascaniosantos@gmail.com'
-          git add index.html
+          git add ./index.html
           git commit -m 'convert md to html'
           git push
       - name: Setup Pages
