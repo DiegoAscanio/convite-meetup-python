@@ -33,7 +33,7 @@ jobs:
       - name: Sets a virtual environment
         run: python3 -m venv env
       - name: Activate virtual environment
-        run: source venv/bin/Activate
+        run: source ./env/bin/activate
       - name: Installs python markdown package
         run: pip install markdown
       - name: Convert index.md to index.html
