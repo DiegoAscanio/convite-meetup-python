@@ -15,9 +15,11 @@ Para garantir sua participação, faça sua inscrição pelo link [https://www.m
 Todos os participantes receberão certificados, que podem ser utilizados como comprovantes de horas complementares ou para atividades extracurriculares.
 
 Para mais informações, entre em contato pelo [telegram](https://t.me/pythonmg). As mídias sociais do Python-MG são:
+
 - [instagram](https://www.instagram.com/python.mg).
 
 As mídias sociais do COMPET são:
+
 - [instagram](https://www.instagram.com/compet.cefet/)
 - [linkedin](https://www.linkedin.com/company/compet-cefetmg/)
 - [twitter](https://twitter.com/compet_cefet)
