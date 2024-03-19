@@ -1,5 +1,3 @@
-exclude: index.md 
-
 jobs:
   md-to-html:
     runs-on: ubuntu-latest
