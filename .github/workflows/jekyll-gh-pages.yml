@@ -30,16 +30,10 @@ jobs:
               uses: actions/checkout@v4
             - name: Installs python3 and python3-pip
               run: sudo apt install -y python3 python3-pip
-            - name: Sets a virtual environment
-              run: python3 -m venv env
-            - name: Activate virtual environment
-              run: source ./env/bin/activate
             - name: Installs python markdown package
-              run: pip install markdown
+              run: sudo pip install markdown
             - name: Convert index.md to index.html
               run: python -m markdown ./index.md > ./index.html
-            - name: Deactivate virtual environment
-              run: deactivate
             - name: Commit changes
               run: |
                   git config user.name 'diegoascanio'
