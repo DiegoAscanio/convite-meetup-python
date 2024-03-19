@@ -10,7 +10,7 @@ O Python-MG, grupo de usuários da linguagem Python em Minas Gerais, em colabora
 
 Este encontro representa uma excelente oportunidade para se aprofundar na linguagem Python, explorar suas vastas possibilidades, e discutir projetos inovadores desenvolvidos com ela. Além disso, é uma chance ímpar para expandir seu networking com outros programadores Python de Belo Horizonte e de todo o estado.
 
-Para garantir sua participação, faça sua inscrição pelo link [https://www.meetup.com/pythonmg/events/299753134](https://www.meetup.com/pythonmg/events/299753134), , observando que as vagas são limitadas.
+Para garantir sua participação, faça sua inscrição pelo link [https://www.meetup.com/pythonmg/events/299753134](https://www.meetup.com/pythonmg/events/299753134), observando que as vagas são limitadas.
 
 Todos os participantes receberão certificados, que podem ser utilizados como comprovantes de horas complementares ou para atividades extracurriculares e ao participarem do evento, concordam com o [código de conduta](https://apyb.python.org.br/pythonbrasil/cdc/) da Associação Python Brasil.
 
