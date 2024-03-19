@@ -45,8 +45,6 @@ jobs:
           git add ./index.html
           git commit -m 'convert md to html'
           git push
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Build with Jekyll
